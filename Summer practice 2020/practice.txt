@@ -1,0 +1,12 @@
+ 1. Author - Althoff Corey  ; Book name - "Himself a programmer. How to learn to program." ; Circulation - 10000< ; Cost - 350UAH. 
+2.Autor - Mike Banahan, Declan Brady, Mark Doran.; Book Name - "The C Book"; Circulation - 10000< ; Cost - 689UAH. 
+3.Autor - John Erickson; Book Name - "Hacking. Exploit art"; Circulation - 100000<; Cost - 910UAH . 
+4.Autor - Robert Martin; Book Name-"The perfect programmer. How to become a software development professional."; Circulation-10000<; Cost - 311UAH. 
+5.Autor - Sprol Anton; Book Name - "Think like a programmer. Creative approach"; Circulation - 100000 < ; Cost - 388UAH. 
+6.Autor - Mr Daniel Holden; Book Name - "Build Your Own Lisp"; Circulation - Unknow; Cost - 1244 UAH. 
+7.Autor - David Thomas, Andrew Hunt; Book Name - "Pragmatic programmer"; Circulation - ; Cost -420UAH . 
+8.Autor - Petzold C.; Book Name - "Code. The secret language of computer science"; Circulation - 9000; Cost - 480UAH. 
+9.Autor - Brian Gough ; Book Name - "An Introduction to GCC"; Circulation - 30000; Cost - 445UAH . 
+10.Autor - Kayhan Erciyes; Book Name - "Distributed real-time systems."; Circulation - 100000; Cost -700UAH . 
+11.Autor - Mark Needham, Amy Holder; Book Name - "Graph algorithms"; Circulation - 20000; Cost - 800. 
+12.Autor - Robert Martin ; Book Name - "Learning JavaScript: A Guide to Building Modern Websites."; Circulation - 5000; Cost - 590. 
